@@ -16,9 +16,10 @@ Configure Log Sources:
 3.	Choose the appropriate log source type for WinCollect. Usually, it is "WinCollect" or "Windows Event Log".
 
 Configure Event Log Collection:
-1.	On a Windows machine, download the WinCollect installer from IBM ( https://www.ibm.com/community/101/qradar/wincollect7/ ).
-2.	Run the installer and follow the on-screen instructions to install WinCollect.
-3.	During the installation, you will be prompted to provide the IP address or hostname of the QRadar Console and credentials to communicate with QRadar.
+1.	On a Windows machine, download the WinCollect installer from IBM
+( https://www.ibm.com/community/101/qradar/wincollect7/ ).
+3.	Run the installer and follow the on-screen instructions to install WinCollect.
+4.	During the installation, you will be prompted to provide the IP address or hostname of the QRadar Console and credentials to communicate with QRadar.
 
 Configure Event Log Collection:
 1.	After installing WinCollect, launch the WinCollect Configuration tool.
