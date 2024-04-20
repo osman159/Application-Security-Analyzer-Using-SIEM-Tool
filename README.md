@@ -2,7 +2,7 @@
 Project On IBM Qradar SIEM Tool
 
 Install IBM QRadar:
-1.	Obtain the QRadar installation files from IBM.
+1.	Obtain the QRadar installation files from IBM ( https://www.ibm.com/community/101/qradar/ce/ ).
 2.	Follow the installation instructions provided by IBM for your specific environment (physical, virtual, cloud).
 3.	Make sure to allocate sufficient resources (CPU, RAM, storage) according to the QRadar system requirements.
 
